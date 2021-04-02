@@ -1,3 +1,3 @@
-# Name:
+# Use:
 
-a very coooool project!
+This project is use for name suggestion and also suggesting domin for that particular name for new start-up to open.
